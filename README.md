@@ -44,7 +44,7 @@
     <tr>
       <td>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bincoi03">
-          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geniusvenus&theme=dracula"/>
+          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bincoi03&theme=dracula"/>
         </a>
       </td>
     </tr>
@@ -53,7 +53,7 @@
     <tr>
       <td>
         <a href="https://activity-graph.herokuapp.com/graph?username=bincoi03">
-          <img width="705" src="https://activity-graph.herokuapp.com/graph?username=geniusvenus&theme=dracula">
+          <img width="705" src="https://activity-graph.herokuapp.com/graph?username=bincoi03&theme=dracula">
         </a>
       </td>
     </tr>
@@ -65,12 +65,12 @@
     <tr>
       <th>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bincoi03">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geniusvenus&theme=dracula"/>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bincoi03&theme=dracula"/>
         </a>
       </th>
       <th>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bincoi03&">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=geniusvenus&theme=dracula"/>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bincoi03&theme=dracula"/>
         </a>
       </th>
     </tr>
@@ -79,12 +79,12 @@
     <tr>
       <td>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bincoi03">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=geniusvenus&theme=dracula"/>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bincoi03&theme=dracula"/>
         </a>
       </td>
       <td>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bincoi03">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=geniusvenus&theme=dracula"/>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bincoi03&theme=dracula"/>
         </a>
       </td>
     </tr>
